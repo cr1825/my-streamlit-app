@@ -3,3 +3,8 @@ pandas
 numpy
 scikit-learn
 matplotlib
+ipywidgets
+joblib
+plotly
+seaborn
+xgboost
